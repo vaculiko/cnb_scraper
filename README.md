@@ -5,6 +5,7 @@ Ahoj, zase nestíhám a potřeboval bych pomoct s projektem - chceme zjistit vý
 > https://www.cnb.cz/cs/platebni-styk/sluzby-pro-klienty/kurzovni-listek-cnb/index.html
 
 V prohlížeči lze měnit datum platnosti kurzů pomocí nabídky **Datum** a tlačítkem **Odeslat**.
+
 To přidá na konec adresy `?date=14.12.2022` = požadavek na server ([query string](https://en.wikipedia.org/wiki/Query_string)).
 
 Také potřebujeme hodnoty jen pro určité měny, takže by se hodilo nějaké filtrování.
