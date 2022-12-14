@@ -14,6 +14,10 @@ Potřebuješ z webu dostat HTML pomocí knihovny [requests](https://requests.rea
 
 Pak už stačí jen dostat hodnoty do formy tabulky (seznam seznamů), ty už pak můžeš uložit funkcí `tabulka_do_csv()`
 
+Blokově asi takto:
+
+![Vyvojovy-diagram](web-scraping.png)
+
 Kdybys ti zbyl nějaký čas, můžeš zkusit automatické generování tabulek pro zadaný rozsah dní.
 
 > Díky  
