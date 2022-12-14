@@ -16,5 +16,5 @@ Pak už stačí jen dostat hodnoty do formy tabulky (seznam seznamů), ty už pa
 
 Kdybys ti zbyl nějaký čas, můžeš zkusit automatické generování tabulek pro zadaný rozsah dní.
 
-> Díky
+> Díky  
 > Ondra
